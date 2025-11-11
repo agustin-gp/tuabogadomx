@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* brand colors */
+.bg-brand { background-color: #013A3A; }
+.text-brand { color: #013A3A; }
+.text-gold { color: #C19A6B; }

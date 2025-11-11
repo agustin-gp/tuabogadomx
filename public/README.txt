@@ -1,0 +1,1 @@
+Put your favicon and logo files here (favicon.ico, logo.png).
